@@ -1,0 +1,82 @@
+https://www.aftenbladet.no/rss|Stavanger Aftenbladet Title
+https://www.nrk.no/rogaland/toppsaker.rss|Toppsaker – NRK Rogaland – Lokale nyheter, TV og radio
+https://www.nrk.no/rogaland/siste.rss|Siste – NRK Rogaland – Lokale nyheter, TV og radio
+https://www.nrk.no/kultur/toppsaker.rss|Toppsaker – NRK Kultur og underholdning
+https://www.nrk.no/urix/toppsaker.rss|Toppsaker – NRK Urix – Utenriksnyheter og -dokumentarer
+https://www.nrk.no/sport/toppsaker.rss|Toppsaker – NRK Sport – Sportsnyheter, resultater og sendeplan
+https://www.nrk.no/livsstil/toppsaker.rss|Toppsaker – NRK Livsstil – Tips, råd og innsikt
+https://www.nrk.no/viten/toppsaker.rss|Toppsaker – NRK Viten – Nyheter innen vitenskap og forskning
+https://www.nrk.no/dokumentar/toppsaker.rss|Toppsaker – NRK Dokumentar
+https://www.nrk.no/ytring/toppsaker.rss|Toppsaker – Ytring
+https://p3.no/category/musikk/feed/|musikk – p3.no
+https://p3.no/category/filmanmeldelser/feed/|Filmanmeldelser – p3.no
+https://p3.no/category/tv-serieanmeldelser/feed/|TV-serieanmeldelser – p3.no
+https://p3.no/category/musikkanmeldelser/feed/|Musikkanmeldelser – p3.no
+https://www.aftenposten.no/rss|Aftenposten Title
+https://feeds.feedburner.com/newsinenglish/AzQS|Norway's News in English — www.newsinenglish.no
+https://feeds.thelocal.com/rss/no|The Local
+https://www.vg.no/rss/feed/?format=rss|Siste nytt fra VG
+https://www.adressa.no/rss|Nyheter fra Adresseavisen
+https://www.norwegianamerican.com/feed/|The Norwegian American
+https://www.oedigital.com/norway?format=feed|Norway
+https://e24.no/rss|E24 RSS
+https://www.varden.no/rss|Nyheter fra Varden
+https://www.antaranews.com/rss/photo.xml|Antara News Galeri Foto
+https://www.antaranews.com/rss/video.xml|Antara News Galeri Video
+http://www.bbc.co.uk/indonesia/index.xml|BBC News Indonesia
+https://news.detik.com/berita/rss|Berita - Detikcom
+https://www.antaranews.com/rss/terkini.xml|Berita Terkini - ANTARA News
+https://www.antaranews.com/rss/top-news.xml|Berita Top News - ANTARA News
+https://www.antaranews.com/rss/ekonomi-bisnis.xml|Bisnis - ANTARA News
+https://www.antaranews.com/rss/ekonomi-bumn-untuk-indonesia.xml|BUMN Untuk Indonesia - ANTARA News
+https://www.antaranews.com/rss/ekonomi-bursa.xml|Bursa - ANTARA News
+https://www.cnnindonesia.com/ekonomi/rss|CNN Indonesia | Berita Terkini Ekonomi
+https://www.cnnindonesia.com/nasional/rss|CNN Indonesia | Berita Terkini Nasional
+https://www.antaranews.com/rss/ekonomi.xml|Ekonomi - ANTARA News
+https://energyworld.co.id/feed/|Energy World Indonesia
+https://finance.detik.com/rss|Finance - Detikcom
+https://www.antaranews.com/rss/hukum.xml|Hukum - ANTARA News
+https://www.la1j.no/feed/|Jærgruppen av NRRL  –     LA1J
+https://jakartasatu.com/feed/|jakartasatu.com
+https://www.antaranews.com/rss/metro-kriminalitas.xml|Kriminalitas - ANTARA News
+https://lapi.kumparan.com/v2.0/rss/|kumparan - #kumparanAdalahJawaban
+https://www.antaranews.com/rss/metro-lenggang-jakarta.xml|Lenggang Jakarta - ANTARA News
+https://www.antaranews.com/rss/metro-lintas-kota.xml|Lintas Kota - ANTARA News
+https://www.cnbcindonesia.com/market/rss/|Market - Berita Terkini Market, Saham, Reksadana - CNBC Indonesia
+https://www.medanbagus.com/rss|Medan Bagus
+https://mediaindonesia.com/feed|mediaindonesia.com RSS Feed
+https://www.antaranews.com/rss/metro.xml|Metro - ANTARA News
+https://moneytalk.id/feed/|Money Talk
+https://www.cnbcindonesia.com/news/rss|News - Berita Terkini Indonesia dan Dunia - CNBC Indonesia
+https://nrrl.no/feed/|Norsk Radio Relæ Liga
+https://www.antaranews.com/rss/otomotif.xml|Otomotif - ANTARA News
+https://otomotifzone.com/feed/|OtomotifZone
+https://www.antaranews.com/rss/politik.xml|Politik - ANTARA News
+https://pribuminews.co.id/feed/|PribumiNews.co.id
+https://www.republika.co.id/rss|Republika Online RSS Feed
+https://www.regjeringen.no/en/rss/Rss/2581966/|RSS Regjeringen.no
+https://www.antaranews.com/rss/sepakbola.xml|Sepakbola - ANTARA News
+http://sindikasi.okezone.com/index.php/okezone/RSS2.0|Sindikasi welcomepage.okezone.com
+http://rss.tempo.co/bisnis|Tempo.co Berita Bisnis Terkini Indonesia dan Dunia RSS
+http://rss.tempo.co/nasional|Tempo.co Berita Nasional Terbaru Indonesia Hari Ini RSS
+https://topmetro.news/feed/|TOPMETRO NEWS
+https://medan.tribunnews.com/rss|Tribun-medan.com
+https://www.antaranews.com/rss/otomotif-umum.xml|Umum - ANTARA News
+https://narasinews.id/rss/latest-posts|Narasinews | Peace Journalism & Berita Terbaru
+https://www.cna.id/api/v1/rss-outbound-feed?_format=xml|Latest News
+https://www.mataexpose.co.id/rss/latest-posts|Informasi Berita Terkini dan Terbaru Hari Ini & Latest Posts
+https://www.mahessa.id/rss/latest-posts|Berita Mahessa untuk Indonesia & Latest Posts
+https://www.portal7.co.id/rss/latest-posts|Berita Terkini, Akurat dan Berimbang & Latest Posts
+https://rm.id/rss-rakyat-merdeka|RM.ID - Berita Terkini Hari Ini, Informasi Berita Terupdate
+https://www.yahoo.com/news/rss|Yahoo News - Latest News & Headlines
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml|NYT > Top Stories
+https://feeds.bbci.co.uk/news/rss.xml|BBC News
+https://moxie.foxnews.com/google-publisher/latest.xml|Latest & Breaking News on Fox News
+https://www.theguardian.com/world/rss|World news | The Guardian
+https://investors.bakerhughes.com/rss/news-releases.xml|Baker Hughes News Releases
+https://feeds.bbci.co.uk/news/world/rss.xml|BBC News
+https://feeds.nbcnews.com/nbcnews/public/news|NBC News Top Stories
+https://feeds.skynews.com/feeds/rss/home.xml|The Latest News from the UK and Around the World | Sky News
+https://www.telegraph.co.uk/rss.xml|www.telegraph.co.uk for the latest news from the UK and around the world.
+https://www.buzzfeed.com/world.xml|BuzzFeed News
+https://www.aljazeera.com/xml/rss/all.xml|Al Jazeera – Breaking News, World News and Video from Al Jazeera

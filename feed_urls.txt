@@ -1,0 +1,51 @@
+https://www.aftenbladet.no/rss|Stavanger Aftenbladet|Stavanger Aftenbladet
+https://www.nrk.no/rogaland/toppsaker.rss|Toppsaker – NRK Rogaland – Lokale nyheter, TV og radio|NRK.NO
+https://www.nrk.no/rogaland/siste.rss|Siste – NRK Rogaland – Lokale nyheter, TV og radio|NRK.NO
+https://www.nrk.no/kultur/toppsaker.rss|Toppsaker – NRK Kultur og underholdning|NRK.NO
+https://www.nrk.no/urix/toppsaker.rss|Toppsaker – NRK Urix – Utenriksnyheter og -dokumentarer|NRK.NO
+https://www.nrk.no/sport/toppsaker.rss|Toppsaker – NRK Sport – Sportsnyheter, resultater og sendeplan|NRK.NO
+https://www.nrk.no/livsstil/toppsaker.rss|Toppsaker – NRK Livsstil – Tips, råd og innsikt|NRK.NO
+https://www.nrk.no/viten/toppsaker.rss|Toppsaker – NRK Viten – Nyheter innen vitenskap og forskning|NRK.NO
+https://www.nrk.no/dokumentar/toppsaker.rss|Toppsaker – NRK Dokumentar|NRK.NO
+https://www.nrk.no/ytring/toppsaker.rss|Toppsaker – Ytring|NRK.NO
+https://p3.no/category/musikk/feed/|musikk – p3.no|P3.NO
+https://p3.no/category/filmanmeldelser/feed/|Filmanmeldelser – p3.no|P3.NO
+https://p3.no/category/tv-serieanmeldelser/feed/|TV-serieanmeldelser – p3.no|P3.NO
+https://p3.no/category/musikkanmeldelser/feed/|Musikkanmeldelser – p3.no|P3.NO
+https://www.aftenposten.no/rss|Aftenposten|Aftenposten
+https://www.vg.no/rss/feed/|Siste nytt fra VG|VG.NO
+https://www.vg.no/rss/feed/?categories=1069|Siste nytt fra VG|VG.NO
+https://www.vg.no/rss/feed/?categories=1070|Siste nytt fra VG|VG.NO
+https://e24.no/rss2/|E24 RSS|E24.NO
+https://e24.no/rss2/?seksjon=boers-og-finans|E24 RSS Boers og Finans|E24.NO
+https://e24.no/rss2/?seksjon=aksjetips|E24 RSS Aksjetips|E24.NO
+https://www.tv2.no/rss/nyheter/innenriks|TV 2 - Innenriks|TV2.NO
+https://www.tv2.no/rss/nyheter/utenriks|TV 2 - Utenriks|TV2.NO
+https://www.tv2.no/rss/sport|TV 2 - Sport|TV2.NO
+https://www.tv2.no/rss/underholdning|TV 2 - Underholdning|TV2.NO
+https://www.nettavisen.no/service/rich-rss?tag=nyheter|Nettavisen - Nyheter|Nettavisen
+https://www.nettavisen.no/service/rich-rss?tag=sport|Nettavisen - Sport|Nettavisen
+https://www.dagbladet.no/?lab_viewport=rss|Dagbladet|Dagbladet
+https://www.dagsavisen.no/arc/outboundfeeds/rss/|Dagsavisen RSS|Dagsavisen
+https://ws.finansavisen.no/api/articles.rss|Finansavisen|Dagsavisen
+https://ws.finansavisen.no/api/articles.rss?category=B%C3%B8rs|Finansavisen|Finansavisen
+https://www.tu.no/rss|Siste saker fra Tu.no|TU.NO
+https://www.antaranews.com/rss/photo.xml|Antara News Galeri Foto|AntaraNews
+https://www.antaranews.com/rss/video.xml|Antara News Galeri Video|AntaraNews
+https://www.antaranews.com/rss/terkini.xml|Berita Terkini|AntaraNews
+https://www.antaranews.com/rss/top-news.xml|Berita Top News|AntaraNews
+https://www.antaranews.com/rss/ekonomi-bisnis.xml|Bisnis|AntaraNews
+https://www.antaranews.com/rss/ekonomi-bumn-untuk-indonesia.xml|BUMN Untuk Indonesia|AntaraNews
+https://www.antaranews.com/rss/ekonomi-bursa.xml|Bursa|AntaraNews
+https://www.antaranews.com/rss/ekonomi.xml|Ekonomi|AntaraNews
+https://www.antaranews.com/rss/hukum.xml|Hukum|AntaraNews
+https://www.antaranews.com/rss/metro-kriminalitas.xml|Kriminalitas|AntaraNews
+https://www.antaranews.com/rss/metro-lenggang-jakarta.xml|Lenggang Jakarta|AntaraNews
+https://www.antaranews.com/rss/metro-lintas-kota.xml|Lintas Kota|AntaraNews
+https://www.antaranews.com/rss/metro.xml|Metro|AntaraNews
+https://www.antaranews.com/rss/otomotif.xml|Otomotif|AntaraNews
+https://www.antaranews.com/rss/politik.xml|Politik|AntaraNews
+https://www.antaranews.com/rss/sepakbola.xml|Sepakbola |AntaraNews
+https://www.antaranews.com/rss/otomotif-umum.xml|Umum|AntaraNews
+http://www.bbc.co.uk/indonesia/index.xml|BBC News Indonesia|BBC News Indonesia
+https://news.detik.com/berita/rss|Berita|Detikcom
